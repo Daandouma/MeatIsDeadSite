@@ -1,0 +1,36 @@
+name: Build photo gallery
+
+on:
+  push:
+    paths:
+      - "images/gallery/**"
+      - "generate-photos-json.js"
+      - ".github/workflows/build-gallery.yml"
+
+jobs:
+  build-gallery:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Generate photos.json
+        run: node generate-photos-json.js
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add images/gallery/photos.json
+          git commit -m "Auto-update photos.json" || echo "No changes to commit"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@v0.8.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
