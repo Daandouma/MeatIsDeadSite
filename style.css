@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Metal+Mania&display=swap');
+
+body {
+  margin: 0;
+  background: #0b0b0b url("images/grunge.png");
+  background-size: cover;
+  color: #ddd;
+  font-family: Arial, sans-serif;
+  text-shadow: 1px 1px 2px #000;
+}
+
+h1, h2 {
+  font-family: 'Metal Mania', cursive;
+  letter-spacing: 2px;
+  color: #b00000;
+}
+
+.nav {
+  background: #000;
+  text-align: center;
+  padding: 12px;
+  border-bottom: 3px solid #400000;
+}
+
+.nav a {
+  color: #ccc;
+  text-decoration: none;
+  font-weight: bold;
+  margin: 0 15px;
+}
+
+.nav a.active,
+.nav a:hover {
+  color: #ff0000;
+}
+
+/* Banner */
+.banner {
+  width: 100%;
+  display: block;
+  filter: grayscale(20%) contrast(120%);
+}
+
+/* Panels */
+.panel {
+  padding: 20px;
+  margin: 30px auto;
+  max-width: 900px;
+}
+
+.metal-box {
+  background: rgba(0,0,0,0.75);
+  border: 2px solid #550000;
+  padding: 20px;
+  box-shadow: 0 0 15px #000;
+}
+
+/* Gallery */
+.gallery {
+  display: grid;
+  gap: 10px;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+}
+
+.gallery img {
+  width: 100%;
+  border: 3px solid #300000;
+  filter: contrast(120%) brightness(90%);
+  transition: transform .2s, filter .2s;
+}
+
+.gallery img:hover {
+  transform: scale(1.05);
+  filter: brightness(110%);
+}
+
+/* Page title */
+.page-title {
+  text-align: center;
+  font-size: 3rem;
+  margin-top: 40px;
+}
