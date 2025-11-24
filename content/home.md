@@ -1,8 +1,6 @@
-## Welkom bij Meat Is Dead
+## Welcome to Meat Is Dead
 
 🔥 Protect the innocent  
 🔥 Go vegan
-
-🔥 Live shows & updates  
 
 
