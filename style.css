@@ -53,6 +53,9 @@ h1, h2 {
   border: 2px solid #550000;
   padding: 20px;
   box-shadow: 0 0 15px #000;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  word-break: break-word;
 }
 
 /* Gallery */
