@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8">
+  <title>Meat Is Dead – EPK</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="markdown.js"></script>
+</head>
+<body>
+
+<header class="subnav">
+  <nav class="nav">
+    <a href="index.html">Home</a>
+    <a href="live.html">Live</a>
+    <a href="epk.html" class="active">EPK</a>
+  </nav>
+</header>
+
+<main>
+  <h1 class="page-title">EPK</h1>
+  <div id="epk-md" class="metal-box">EPK wordt geladen…</div>
+</main>
+
+<script>
+fetch("content/epk.md")
+  .then(r => r.text())
+  .then(md => { document.getElementById("epk-md").innerHTML = marked.parse(md); });
+</script>
+
+</body>
+</html>
