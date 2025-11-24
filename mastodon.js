@@ -13,12 +13,12 @@ async function loadMastodon() {
     mastodonFeed.innerHTML = posts.slice(0, 5).map(p => `
       <div class="toot metal-box">
         ${p.content}
-        <br><a href="${p.url}" target="_blank">Bekijk post</a>
+        <br><a href="${p.url}" target="_blank">View post</a>
       </div>
     `).join("");
 
   } catch (err) {
-    mastodonFeed.innerHTML = "Kon posts niet laden.";
+    mastodonFeed.innerHTML = "Couldn't load posts";
   }
 }
 
