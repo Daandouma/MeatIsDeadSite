@@ -37,7 +37,7 @@ h1, h2 {
 
 /* Banner */
 .banner {
-  width: 100%;
+  width: 90%;
   display: block;
   filter: grayscale(20%) contrast(120%);
 }
