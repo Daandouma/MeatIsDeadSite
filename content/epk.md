@@ -2,7 +2,9 @@
 
 ## Music
 https://open.spotify.com/artist/1hiC3AKfds5Ehy0brMxcLF
+
 https://meatisdead.bandcamp.com/ 
+
 https://soundcloud.com/meatisdead
 
 ## Bio
@@ -11,7 +13,9 @@ What started as a one-person project in 2021, is now three animal liberation act
 There is no excuse for animal abuse! Go vegan and join our fight for animal liberation!
 
 Keep an eye on their socials: 
+
 IG: https://www.instagram.com/meatisdeadnl?igsh=MWZxNjd5cXhhbXhqNw== 
+
 FB: https://www.facebook.com/profile.php?id=61561627836590
 
 ## Band members
