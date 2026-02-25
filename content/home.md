@@ -1,7 +1,7 @@
 ## Welcome to Meat Is Dead
-Don't agree with our message? --> go here: 3minutes.wtf
+Don't agree with our message? --> go here: https://3minutes.wtf
 
-Agree with our message? --> go here: challenge22.org
+Agree with our message? --> go here: https://challenge22.org
 
 
 Find us on:
