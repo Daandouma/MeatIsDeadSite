@@ -36,7 +36,8 @@ h1, h2 {
 }
 
 /* Global link styles for better readability on dark background */
-.nav a:link, a:visited {
+.nav a:link, 
+.nav a:visited {
   color: #9bbdf0; /* Light, readable blue */
   text-decoration: underline; /* optional, but helps identify links */
 }
