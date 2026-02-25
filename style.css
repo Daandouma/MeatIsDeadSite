@@ -35,6 +35,17 @@ h1, h2 {
   color: #ff0000;
 }
 
+/* Global link styles for better readability on dark background */
+a:link, a:visited {
+  color: #9bbdf0; /* Light, readable blue */
+  text-decoration: underline; /* optional, but helps identify links */
+}
+
+a:hover, a:active {
+  color: #ffd966; /* warm yellow on hover for contrast */
+  text-decoration: none; /* optional */
+}
+
 /* Banner */
 .banner {
   width: 100%;
