@@ -16,6 +16,14 @@ h1, h2 {
   color: #b00000;
 }
 
+/* Global link styles for better readability on dark background */
+a:link, 
+a:visited {
+  color: #9bbdf0; /* Light, readable blue */
+  text-decoration: underline; /* optional, but helps identify links */
+}
+
+
 .nav {
   background: #000;
   text-align: center;
@@ -33,13 +41,6 @@ h1, h2 {
 .nav a.active,
 .nav a:hover {
   color: #ff0000;
-}
-
-/* Global link styles for better readability on dark background */
-.nav a:link, 
-.nav a:visited {
-  color: #9bbdf0; /* Light, readable blue */
-  text-decoration: underline; /* optional, but helps identify links */
 }
 
 /* Banner */
