@@ -27,7 +27,5 @@ Leon, Tim, Daan
 
 
 ## Logo
-
-![Band logo Meat is Dead](images/meatisdead_logo.svg)
-![Band logo (wide) Meat is Dead](images/meatisdead_wide.svg)
-
+Logo as vector: https://meatisdead.org/images/meatisdead_logo.svg
+Logo as png: https://meatisdead.org/images/meatisdead_logo.svg
