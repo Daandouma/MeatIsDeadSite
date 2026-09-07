@@ -28,4 +28,5 @@ Leon, Tim, Daan
 
 ## Logo
 Logo as vector: https://meatisdead.org/images/meatisdead_logo.svg
+
 Logo as png: https://meatisdead.org/images/meatisdead_logo.svg
