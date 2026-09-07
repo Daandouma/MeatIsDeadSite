@@ -26,3 +26,8 @@ Leon, Tim, Daan
 - Mastodon: https://mastodon.social/@Meatisdead
 
 
+## Logo
+
+![Band logo Meat is Dead](images/meatisdead_logo.svg)
+![Band logo (wide) Meat is Dead](images/meatisdead_wide.svg)
+
