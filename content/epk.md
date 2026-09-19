@@ -1,11 +1,11 @@
 # EPK – Meat Is Dead
 
 ## Music
-https://open.spotify.com/artist/1hiC3AKfds5Ehy0brMxcLF
+Spotify: https://open.spotify.com/artist/1hiC3AKfds5Ehy0brMxcLF
 
-https://meatisdead.bandcamp.com/ 
+Bandcamp: https://meatisdead.bandcamp.com/ 
 
-https://soundcloud.com/meatisdead
+Soundcloud: https://soundcloud.com/meatisdead
 
 ## Bio
 What started as a one-person project in 2021, is now three animal liberation activists joining forces in music. With roots in Limburg, Utrecht and Overijssel, you know them from bands like Bloodgod, When Bombs Fall, xTimx & The AlcoholiX, Streetwiser, Cathubodua and Velozza. Their sound is inspired by hardcore punk, thrash and a hint of Pantera-like groove metal. Not condoning any form of oppression, they shout their frustration and anger about liberating the innocent from the food and entertainment industries.
